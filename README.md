@@ -5,3 +5,5 @@ Selection sort &amp; Heap sort &amp; Quick sort &amp; Merge sort &amp; Insert so
 # But we can do more
 ***
 ### just run the source code SORT.py and you will get an amazing visualization of the sorting process.
+***
+the sort.rar file is the result of sorting in type of .gif
